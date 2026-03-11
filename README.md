@@ -72,7 +72,7 @@ CF_API_TOKEN=your_cloudflare_api_token
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and find out what you are 💀
+Open and find out what you are 💀
 
 ---
 
@@ -150,3 +150,4 @@ Made with chaos and zero chill ✨
 **[Try it live →](#)**
 
 </div>
+
