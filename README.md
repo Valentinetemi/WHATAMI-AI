@@ -72,7 +72,7 @@ CF_API_TOKEN=your_cloudflare_api_token
 npm run dev
 ```
 
-Open and find out what you are 💀
+Link -  https://whatami-ai.vercel.app/ Open and find out what you are 💀
 
 ---
 
@@ -147,7 +147,8 @@ MIT — do whatever you want with it, just don't be a red flag about it 🚩
 
 Made with chaos and zero chill ✨
 
-**[Try it live →](#)**
+**[Try it live →](#https://whatami-ai.vercel.app/)**
 
 </div>
+
 
